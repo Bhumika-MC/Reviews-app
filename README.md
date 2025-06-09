@@ -14,8 +14,8 @@ An interactive **Reviews App** that allows users to view customer reviews one at
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abhireviewsapp.ccbp.tech)  
-🔗 URL: https://abhireviewsapp.ccbp.tech
+👉 [Click here to view the live site](https://bhumireviewsapp.ccbp.tech)  
+🔗 URL: https://bhumireviewsapp.ccbp.tech
 
 ## ✨ Features
 
